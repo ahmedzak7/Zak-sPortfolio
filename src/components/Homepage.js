@@ -10,8 +10,8 @@ const Homepage = () => {
             DevOps Engineer,Full Stack Developer
         </p>
         <ul>
-            <li><a href="#" target="_blank" rel="noopenner noreferrer"><FaLinkedin /></a></li>
-            <li><a href="#" target="_blank" rel="noopenner noreferrer"><FaGithub /></a></li>
+            <li><a href="https://github.com/ahmedzak7/Zak-sPortfolio" target="_blank" rel="noopenner noreferrer"><FaLinkedin /></a></li>
+            <li><a href="https://github.com/ahmedzak7/Zak-sPortfolio" target="_blank" rel="noopenner noreferrer"><FaGithub /></a></li>
         </ul>
         </div>
         </section>
