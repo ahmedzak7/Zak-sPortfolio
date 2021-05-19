@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# A portfolio website using  ReactJs
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Link to the deployed website
+
+https://zakcode.netlify.app/
 
 ## Available Scripts
 
