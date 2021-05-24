@@ -36,8 +36,8 @@ export const projects = [
         id: uuidv4(),
         title: "CICD to run Terraform code and Deploy a NodeJs on a slave jenkins",
         desc: "Terraform code using modules&variables to provision architecture then using jenkins pipeline to run it and other pipeline to deploy a nodeJs app",
-        github: "https://github.com/ahmedzak7",
-        demo: "https://github.com/ahmedzak7",
+        github: "https://github.com/ahmedzak7/terraform_project/tree/master",
+        demo: "https://github.com/ahmedzak7/terraform_project/tree/master",
         image: "./images/project5.png",
     },
     {
