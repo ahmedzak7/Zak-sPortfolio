@@ -42,8 +42,8 @@ export const projects = [
     },
     {
         id: uuidv4(),
-        title: "Project Six",
-        desc: "Lorem ipsum doler sit amet consecteture dfdfgdsf elit",
+        title: "AWS RDS MySQL Database Setup & Connect it to a WebPage",
+        desc: "► Deploy EC2 instance as a webserver ► Deploy RDS instance ► Have a web page talk to rds and update data ►Perform some sql queries(workbench or mysqlClient)",
         github: "https://github.com/ahmedzak7",
         demo: "https://github.com/ahmedzak7",
         image: "./images/project5.png",
